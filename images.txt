@@ -4,8 +4,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-haroldli/xiaoya-tvbox
-cnk3x/xunlei
-histb/jellyfin
-histb/qinglong
-histb/portainer
+--platform=linux/arm64 haroldli/xiaoya-tvbox
+--platform=linux/arm64 cnk3x/xunlei
+--platform=linux/arm64 histb/jellyfin
+--platform=linux/arm64 histb/qinglong
+--platform=linux/arm64 histb/portainer
